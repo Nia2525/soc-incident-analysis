@@ -36,6 +36,21 @@ Ein SIEM-Alarm meldete mehrere fehlgeschlagene Login-Versuche, gefolgt von einem
 - Blockierung der IP-Adresse  
 - Anpassung der Login-Richtlinien  
 
+## 🧪 Web Traffic Analysis – Burp Suite
+
+![Burp Suite HTTP History](burpsuite-http-history.png)
+
+**Summary**
+- Captured HTTP requests using Burp Suite proxy
+- Analyzed request/response behavior
+- Demonstrated understanding of web traffic inspection
+
+**Tools**
+- Burp Suite
+- Kali Linux
+- VirtualBox
+
+
 ## 📚 Learnings
 - Praktische Erfahrung in SOC-Triage  
 - Vertiefung der Log- und Netzwerkverkehrsanalyse  
