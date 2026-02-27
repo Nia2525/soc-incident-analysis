@@ -1,5 +1,11 @@
-# SOC Incident Analysis – Suspicious Login Activity
+# SOC Incident Analysis – Suspicious Login Activity (Lab Portfolio)
+This repository contains structured SOC incident analyses from a controlled lab environment.  
+It demonstrates practical skills in SIEM triage, log analysis, root cause analysis (RCA), and remediation recommendations.  
+The content is intended as a portfolio of practical SOC work for learning, documentation, and professional development.
+
+
 Hands-on SOC incident analysis: SIEM, IR, log correlation, recommendations.
+
 
 ## 📌 Projektübersicht
 Analyse eines simulierten SOC-Falls mit verdächtigen Login-Aktivitäten und möglichem Malware-Verdacht in einer virtuellen Laborumgebung.
