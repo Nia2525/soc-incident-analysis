@@ -1,4 +1,5 @@
 # SOC Incident Analysis – Suspicious Login Activity
+Hands-on SOC incident analysis: SIEM, IR, log correlation, recommendations.
 
 ## 📌 Projektübersicht
 Analyse eines simulierten SOC-Falls mit verdächtigen Login-Aktivitäten und möglichem Malware-Verdacht in einer virtuellen Laborumgebung.
